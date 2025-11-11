@@ -43,8 +43,6 @@ EmailSendTool	Simulates email sending by saving messages to /sent_emails/.
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/<your-username>/crewai-retail-intelligence.git
-cd crewai-retail-intelligence
 
 2. Create a Virtual Environment
 python -m venv venv
