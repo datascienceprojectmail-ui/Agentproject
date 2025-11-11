@@ -1,0 +1,6 @@
+product_sku,product_name,category,on_hand_qty,reorder_point,price
+SKU-1003-001,Bluetooth Speaker (Edition),Electronics,179,109,152.65
+SKU-1001-002,Wireless Earbuds (Plus),Electronics,280,105,71.35
+SKU-2003-003,Coffee Maker Deluxe (Pro),Home Appliances,276,100,84.82
+SKU-1004-004,Laptop Pro 15 (Pro),Electronics,29,49,1058.5
+SKU-2002-005,Vacuum Cleaner Turbo (Edition),Home Appliances,257,79,125.12

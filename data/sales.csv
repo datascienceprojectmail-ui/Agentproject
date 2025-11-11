@@ -1,0 +1,9 @@
+sale_id,date,customer_email,product,quantity,price,revenue
+1,2024-04-23,alice.lopez1@example.com,Coffee Maker Deluxe (Pro),1,84.82,84.82
+2,2024-04-28,alice.lopez1@example.com,Wireless Earbuds (Plus),1,71.35,71.35
+3,2025-08-23,alice.lopez1@example.com,Coffee Maker Deluxe (Pro),1,84.82,84.82
+4,2024-11-30,alice.lopez1@example.com,Vacuum Cleaner Turbo (Edition),1,125.12,125.12
+5,2024-01-30,bob.brown2@example.com,Bluetooth Speaker (Edition),3,152.65,457.95
+6,2024-08-20,bob.brown2@example.com,Wireless Earbuds (Plus),1,71.35,71.35
+7,2024-12-05,bob.brown2@example.com,Wireless Earbuds (Plus),1,71.35,71.35
+8,2025-07-31,bob.brown2@example.com,Coffee Maker Deluxe (Pro),1,84.82,84.82
